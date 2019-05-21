@@ -31,6 +31,7 @@
 #include "cWorld.h"
 #include "tList.h"
 
+#include <algorithm>
 #include <fstream>
 
 using namespace std;

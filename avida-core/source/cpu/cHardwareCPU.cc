@@ -54,6 +54,7 @@
 #include <climits>
 #include <fstream>
 #include <cmath>
+#include <algorithm>
 
 using namespace std;
 using namespace Avida;

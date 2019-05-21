@@ -40,6 +40,7 @@
 
 #include "tInstLibEntry.h"
 
+#include <algorithm>
 #include <climits>
 #include <fstream>
 #include <iomanip>

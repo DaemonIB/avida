@@ -43,6 +43,7 @@
 #include <climits>
 #include <fstream>
 #include <iomanip>
+#include <algorithm>
 
 using namespace std;
 using namespace Avida;
